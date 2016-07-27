@@ -50,4 +50,13 @@ The App uses version 3 of the MGO Image Grid extension. The images themselves ar
 All assets and data for this project can be found here on [archive.org](https://archive.org/details/bookimages)
 and here's there GITHUB page: [internetarchive](https://github.com/internetarchive)
 
+## Art galleries
+These apps are more image library fiun, but not fully public domain. Some images are but you should check licence details for each image to be sure.
 
+### The Tate Collection
+
+**Grab from above or here's a direct link to the App [The Tate Collection.qvf](https://github.com/murraygm/qs-mgoqliksenseapps/raw/master/The%20Tate%20Collection.qvf)**
+
+I've always loved The Tate - each of their sites are brilliant, from Tate Britain, to Tate Modern and Tate Scotland - always an inspiration. This App has around 55k images in it and references 65k artworks in The Tate's collection. It's built off the great dataset they released on [github](https://github.com/tategallery/collection). Same issues as before around image paging and downloads.
+
+![tate 1](https://github.com/murraygm/qs-mgoqliksenseapps/raw/master/screenshots/tate-00001.png) ![tate 2](https://github.com/murraygm/qs-mgoqliksenseapps/raw/master/screenshots/tate-00002.png) ![tate 3](https://github.com/murraygm/qs-mgoqliksenseapps/raw/master/screenshots/tate-00003.png)
