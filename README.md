@@ -60,3 +60,12 @@ These apps are more image library fiun, but not fully public domain. Some images
 I've always loved The Tate - each of their sites are brilliant, from Tate Britain, to Tate Modern and Tate Scotland - always an inspiration. This App has around 55k images in it and references 65k artworks in The Tate's collection. It's built off the great dataset they released on [github](https://github.com/tategallery/collection). Same issues as before around image paging and downloads.
 
 ![tate 1](https://github.com/murraygm/qs-mgoqliksenseapps/raw/master/screenshots/tate-00001.png) ![tate 2](https://github.com/murraygm/qs-mgoqliksenseapps/raw/master/screenshots/tate-00002.png) ![tate 3](https://github.com/murraygm/qs-mgoqliksenseapps/raw/master/screenshots/tate-00003.png)
+
+
+### MoMA (NY) Online Collection
+
+**Grab from above or here's a direct link to the App [MoMA.qvf](https://github.com/murraygm/qs-mgoqliksenseapps/raw/master/MoMA.qvf)**
+
+Here's the [MoMA NY online collection](http://www.moma.org/), based on the data they released on [Github](https://github.com/MuseumofModernArt/collection). Only thumbnail images available in the app. 
+
+![MoMA 1](https://github.com/murraygm/qs-mgoqliksenseapps/raw/master/screenshots/moma.png) 
